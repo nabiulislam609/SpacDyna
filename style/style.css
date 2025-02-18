@@ -156,8 +156,8 @@ input {
 }
 #btn {
     position: absolute;
-    top:35%;
-    right: 32%;
+    top:36%;
+    right: 31%;
     background-color: #fff;
     font-size: 15px;
     color: #fe3f40;
@@ -177,7 +177,6 @@ input {
 /* service area start  */
 .service-area {
     width: 100%;
-    height: 80vh;
     background-image: url('../src/about-bg.png');
     background-repeat: no-repeat;
     background-position: center center;
@@ -223,7 +222,6 @@ input {
 .progress {
     display: flex;
     width: 90%;
-    height: 600px;
     padding: 50px 100px 50px 400px;
 }
 .bgimg {
@@ -312,7 +310,6 @@ input {
 /*bottom content start */
 .contact-section {
     width: 100%;
-    height: 80vh;
     background-image: url('../src/contact-bg.png');
     background-repeat: no-repeat;
     background-position: center center;
